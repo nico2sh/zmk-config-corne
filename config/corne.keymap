@@ -98,7 +98,7 @@
 
         Lower {
             bindings = <
-&kp ESCAPE  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3          &kp NUMBER_4      &kp NUMBER_5        &kp NUMBER_6  &kp NUMBER_7    &kp NUMBER_8     &kp NUMBER_9          &kp NUMBER_0           &trans
+&kp ESCAPE  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3          &kp NUMBER_4      &kp NUMBER_5        &kp NUMBER_6  &kp NUMBER_7    &kp NUMBER_8     &kp NUMBER_9          &kp NUMBER_0           &kp DELETE
 &trans      &kp EXCLAMATION  &kp AT_SIGN   &kp HASH              &kp DOLLAR        &kp PERCENT         &kp CARET     &kp AMPERSAND   &kp ASTERISK     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE
 &trans      &trans           &trans        &trans                &trans            &trans              &trans        &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH
                                            &kp LEFT_PARENTHESIS  &lt 3 LEFT_BRACE  &kp LEFT_BRACKET    &trans        &trans          &trans
