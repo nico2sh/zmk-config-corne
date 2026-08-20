@@ -80,10 +80,10 @@
 
         Base {
             bindings = <
-&layer_tap_qt 5 TAB  &kp Q                   &kp W                   &kp E                       &kp R                      &kp T            &kp Y      &kp U                      &kp I                        &kp O                    &kp P                            &kp BACKSPACE
-&kp LCTRL            &home_row_l LEFT_GUI A  &home_row_l LEFT_ALT S  &home_row_l LEFT_CONTROL D  &home_row_l LEFT_SHIFT F   &kp G            &kp H      &home_row_r RIGHT_SHIFT J  &home_row_r RIGHT_CONTROL K  &home_row_r RIGHT_ALT L  &home_row_r RIGHT_GUI SEMICOLON  &kp SINGLE_QUOTE
-&kp LEFT_SHIFT       &kp Z                   &kp X                   &kp C                       &kp V                      &kp B            &kp N      &kp M                      &kp COMMA                    &kp PERIOD               &kp SLASH                        &mod_tap_qt RIGHT_SHIFT ENTER
-                                                                     &kp LEFT_COMMAND            &layer_tap_qt 2 BACKSPACE  &kp BACKSPACE    &kp SPACE  &layer_tap_qt 1 SPACE      &kp RIGHT_ALT
+&layer_tap_qt 5 TAB  &kp Q                   &kp W                   &kp E                       &kp R                     &kp T            &kp Y      &kp U                      &kp I                        &kp O                    &kp P                            &kp BACKSPACE
+&kp LCTRL            &home_row_l LEFT_GUI A  &home_row_l LEFT_ALT S  &home_row_l LEFT_CONTROL D  &home_row_l LEFT_SHIFT F  &kp G            &kp H      &home_row_r RIGHT_SHIFT J  &home_row_r RIGHT_CONTROL K  &home_row_r RIGHT_ALT L  &home_row_r RIGHT_GUI SEMICOLON  &kp SINGLE_QUOTE
+&kp LEFT_SHIFT       &kp Z                   &kp X                   &kp C                       &kp V                     &kp B            &kp N      &kp M                      &kp COMMA                    &kp PERIOD               &kp SLASH                        &mod_tap_qt RIGHT_SHIFT ENTER
+                                                                     &kp LEFT_COMMAND            &tog 2                    &kp BACKSPACE    &kp SPACE  &tog 1                     &kp RIGHT_ALT
             >;
         };
 
